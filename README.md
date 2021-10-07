@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá ! Me Chamo Gustavo Henrique Tavares Isobe 👋
 
-<!--
-**tavaresisobe/tavaresisobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Cursando BC&T na Universidade Federal de São Paulo, campus SJC .
+- 🌱 Estudando linguagem C
+- 😄 Pronouns: Ele / Dele 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🎃 🔥 <div align="center">
+  <a href="https://github.com/tavaresisobe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavaresisobe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresisobe&layout=compact&langs_count=7&theme=dracula"/> 
+  
+    
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<div> 
+  
+  <a href="https://instagram.com/t.vares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
