@@ -8,7 +8,7 @@
   🎃 🔥 <div align="center">
   <a href="https://github.com/tavaresisobe">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresisobe&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresisobe&layout=compact&langs_count=7&theme=dracula"/> 
   
     
   
