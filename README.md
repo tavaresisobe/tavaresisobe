@@ -1,7 +1,7 @@
 ### Olá ! Me Chamo Gustavo Henrique Tavares Isobe 👋
 
 
-- 🔭 Cursando BC&T na Universidade Federal de São Paulo, campus SJC .
+- 🔭 Cursando BC&T na Universidade Federal de São Paulo (UNIFESP), campus SJC .
 - 🌱 Estudando linguagem C
 - 😄 Pronouns: Ele / Dele 
 
