@@ -10,7 +10,7 @@
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresisobe&layout=compact&langs_count=7&theme=dracula"/> 
   
-    
+    <br>
   
     <img height="80em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <div> 
