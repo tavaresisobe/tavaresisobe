@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando BC&T na Universidade Federal de São Paulo (UNIFESP), campus SJC .
-- 🌱 Estudando linguagem C, Python e HTML
+- 🌱 Estudando linguagem C, Python e Java
 - 😄 Pronouns: Ele / Dele 
 
   <div align="center">
