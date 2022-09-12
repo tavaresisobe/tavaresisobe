@@ -1,12 +1,12 @@
  ## Oiii eu sou o Gustavo Isobe, estudante de programação e tecnologia!
 
-- 🔭 Cursando BC&T na Universidade Federal de São Paulo (UNIFESP)
+- 🔭 Cursando: BC&T na Universidade Federal de São Paulo (UNIFESP)
 - 😄 Pronouns: Ele / Dele 
 
 <div align="center">
   <a href="https://github.com/tavaresisobe">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=tavaresisobe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresisobe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="240em" width="400" src="https://github-readme-stats.vercel.app/api?username=tavaresisobe&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="240em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresisobe&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
