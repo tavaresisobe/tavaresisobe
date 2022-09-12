@@ -1,4 +1,4 @@
- ## Oiii ! Me chamo Gustavo Isobe, estudante de programação e tecnologia!
+ ## Oiii eu sou o Gustavo Isobe, estudante de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/tavaresisobe">
