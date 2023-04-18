@@ -1,7 +1,5 @@
- ## Oiii eu sou o Gustavo Isobe, estudante de programação e tecnologia!
+ ## Oiii eu sou o Gustavo, estudante de ciência e tecnologia!
 
-- 🔭 Cursando: BC&T na Universidade Federal de São Paulo (UNIFESP)
-- 😄 Pronouns: Ele / Dele 
 
 <div align="center">
   <a href="https://github.com/tavaresisobe">
