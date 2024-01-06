@@ -10,11 +10,14 @@
   <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"
 </div>
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
- <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-  
+ <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
+  <img align="center" alt="LINUX" height="30" width="40" src=" https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+ <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+ <img align="center" alt="ANSIBLE" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png">
+ <img align="center" alt="TERRAFORM" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png">
+ 
  ##
  
 <div> 
