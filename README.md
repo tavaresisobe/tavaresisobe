@@ -1,4 +1,4 @@
- ## Oiii eu sou o Gustavo, estudante de ciência e tecnologia!
+ ## Oiii
 
 
 <div align="center">
